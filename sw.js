@@ -1,8 +1,8 @@
 const CACHE_NAME = 'hello-world-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  '/hello-world-pwa/',
+  '/hello-world-pwa/index.html',
+  '/hello-world-pwa/manifest.json'
 ];
 
 // 安裝時快取所有資源
