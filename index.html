@@ -103,7 +103,7 @@
   <script>
     // 註冊 Service Worker（離線支援）
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
+      navigator.serviceWorker.register('/hello-world-pwa/sw.js')
         .then(() => console.log('SW registered'))
         .catch(err => console.error('SW error:', err));
     }
