@@ -2,7 +2,7 @@
   "name": "Hello World App",
   "short_name": "HelloWorld",
   "description": "My first PWA app",
-  "start_url": "/",
+  "start_url": "/hello-world-pwa/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#00ff88",
